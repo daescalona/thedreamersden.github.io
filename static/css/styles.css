@@ -54,7 +54,7 @@ h1 {
 .main-panel {
   text-align: center;
   background: rgba(44, 66, 97, 0.8);
-  padding: 20px;
+  padding: 18px;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   max-width: 100%;
@@ -87,7 +87,7 @@ h1 {
   background-color: #e1306c;
   border-radius: 10px;
   padding: 10px 20px;
-  margin: 10px 0;
+  margin: 8px 0;
   color: #ffffff;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   transition: transform 0.2s ease;
@@ -100,7 +100,7 @@ h1 {
   background-color: #e19730;
   border-radius: 10px;
   padding: 12px;
-  margin: 10px 0;
+  margin: 8px 0;
   margin-bottom: 0px;
   color: #ffffff;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
